@@ -52,5 +52,5 @@ def test_Lab2():
     
     assert output == [
         "Enter the square feet of the area to convert to acres: ",
-        "\n21870 square feet is equal to 0.5 acres."
+        "\n21870 square feet is equal to 0.50 acres."
         ]
