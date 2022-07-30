@@ -4,19 +4,19 @@
 
 import os.path
 import sys
-from HW1 import main
+from Lab2 import main
 from tud_tests import *
 
 def test_Lab2():
     
     try:
-        exists = os.path.exists("HW1.py")
+        exists = os.path.exists("Lab2.py")
         assert exists == True
     except:
         sys.exit()
     
     # Test 1
-    set_keyboard_input([34570])
+    set_keyboard_input([345000])
     main()
     output = get_display_output()
 
