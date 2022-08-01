@@ -1,6 +1,6 @@
 # CSC 122
-# Lab2
 # Acreage Calculator program
+# By <Your Name>
 
 """
 Inputs, Processes, Outputs (IOP)
